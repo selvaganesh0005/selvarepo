@@ -5,10 +5,7 @@ this line is added by selva1_branch
 selva1_branch found some new solution to the long time issue
 this line is added by vishnu1_branch 
 vishnu1_branch created new solution for one of the issue persist for sometime.
-<<<<<<< HEAD
 master does his work.
-=======
 
 
 the new ingestion is happend here.
->>>>>>> 7f0be90 (bug is fixed)
